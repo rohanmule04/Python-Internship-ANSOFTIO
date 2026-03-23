@@ -2,9 +2,9 @@
 # Ansoftio Python Developer Internship
 
 student = {
-    "name": "Anand",
+    "name": "Rohan",
     "age": 23,
-    "city": "Aurangabad",
+    "city": "Pune",
     "course": "MCA"
 }
 
