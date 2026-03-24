@@ -9,3 +9,4 @@ w = int(input("Enter width: "))
 
 result = area(l, w)
 print("Area of rectangle:", result)
+
